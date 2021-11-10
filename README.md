@@ -1,6 +1,8 @@
 # Calculadora JavaScript - Projeto do Curso da HCode
 
-Calculadora desenvolvida como exercício do Curso Completo de JavaScript na Udemy da HCode. Neste projeto, há toda uma introdução à OO com JS, além trabalhar com recursos de aúdio, funções nativas de array e da linguagem Javascript. Afim de tornar esta imagem SVG funcional, tal como uma calculadora de verdade! :D
+Calculadora desenvolvida como exercício do Curso Completo de JavaScript na Udemy da HCode. Neste projeto, há toda uma introdução à Orientação a Objetos com JS, além trabalhar com recursos de áudio (para habilitar o áudio nas teclas, clique duas vezes na tecla AC), implementação de um relógio interno, formatação de datas, uso de funções nativas do array e da linguagem Javascript. Afim de tornar esta imagem SVG funcional, tal como uma calculadora de verdade! :D
+
+#### Demo: https://vitorakr.github.io/calculadora-javascript-hcode/
 
 #### OBS.: Todo o código Javascript foi comentado para estudo posterior, se necessário.
 
